@@ -6,6 +6,8 @@ from app import app
 
 # Import CherryPy
 import cherrypy
+import cgitb
+cgitb.enable()
 
 if __name__ == '__main__':
 
