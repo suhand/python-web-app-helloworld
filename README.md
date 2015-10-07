@@ -1,7 +1,7 @@
 python-web-app-helloworld
 =========================
 
-This is intended to test sample python web application on Cherrypy
+This is intended to test sample python web application on Cherrypy.
 
 This can be used as a template to develop python applications to host in Apache Stratos 
 Python docker cartridge.
